@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SAVE-AS-S
-- 👀 I’m interested in software development, music, cinema 
+- 👀 I’m interested in software development, music, cinema, etc 
 - 🌱 I’m currently learning software/web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
